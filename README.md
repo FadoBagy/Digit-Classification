@@ -37,7 +37,7 @@ The neural network is trained on the MNIST dataset. This dataset serves as an id
 
 ## Results
 
-The trained neural network achieves an impressive accuracy of 98% on the MNIST test set. This indicates its exceptional ability to accurately classify handwritten digits. The dataset consists of grayscale images with a resolution of 25x25 pixels. The high accuracy showcases the effectiveness of the implemented neural network architecture and the success of the training process.
+The trained neural network achieves an impressive accuracy of 98% on the MNIST test set. This indicates its exceptional ability to accurately classify handwritten digits. The dataset consists of grayscale images with a resolution of 28x28 pixels. The high accuracy showcases the effectiveness of the implemented neural network architecture and the success of the training process.
 
 ## Contributing
 
